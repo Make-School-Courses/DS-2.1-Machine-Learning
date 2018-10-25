@@ -36,14 +36,14 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, October 23 – Thursday, December 13, 2018 (7 weeks)
+**Course Dates:** Monday, October 22 – Wednesday, December 12, 2018 (7 weeks)
 
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
+**Class Times:** Monday and Wednesday at 1:30–3:20pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Tuesday, October 23    | [Lesson 1] |
-|   2   | Thursday, October 25    | [Lesson 2] |
+|   1   |  Tuesday, October 23    | [Introduction to Machine Learning] |
+|   2   | Thursday, October 25    | [Linear Regression] |
 |   3   |  Tuesday, October 30  | [Lesson 1] |
 |   4   | Thursday, November 1  | [Lesson 1] |
 |   5   |  Tuesday, November 6 | [Lesson 1] |
@@ -59,8 +59,8 @@ Students by the end of the course will be able to ...
 |  13   | Tuesday, December 11   | [Lesson 1] |
 |  14   | Thursday, December 13   | Final Exams |
 
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
+[Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
+[Linear Regression]: Lessons/LinearRegression.md
 
 ## Class Assignments [Remove header if you like]
 - List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)

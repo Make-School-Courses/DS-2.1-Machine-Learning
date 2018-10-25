@@ -9,9 +9,9 @@
 | 1:15        | 0:45      | In Class Activity II      |
 | TOTAL       | 2:00      |                           |
 
-# Why you should know this or industry application (optional) (5 min)
+# What we learned in DS 1.1 (5 min)
 
-Explain why students should care to learn the material presented in this class.
+Review of learning topics as a data analyst.
 
 ## Class Learning Objectives/Competencies (5 min)
 
@@ -22,29 +22,29 @@ Explain why students should care to learn the material presented in this class.
 
 ## Initial Exercise (15 min)
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
+- Mention the main jobs in data science
+- Prime the Pump (e.g. which role as data engineer, data scientist or data analyst make better money)
 - Productivity Tip/Tool
 - Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
+- Quiz on mentioning five methods in pandas and
 - Concept Test
 
 ## Overview/TT I (20 min)
 
+- what is machine learning?
 - Why learn this?
-- Industry examples of usage
 - Best practices
 - Personal anecdote
 
 ## In Class Activity I (30 min)
 
 - I do, We do, You do
-- Reading & Discussion Questions in small groups
+- Reading & Discussion about data scaling
 - Draw a picture/diagram
 - Complete Challenges solo or in pair
 - Q&A about tutorials
 - Pair up and code review
-- Pair program
+- Pair program about one-hot encoding and label encoding
 - Formative assessment
 - Form into groups
 - etc (get creative :D)
