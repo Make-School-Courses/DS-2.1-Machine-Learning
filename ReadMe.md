@@ -1,111 +1,110 @@
-# DS 1.1: Machine Learning
+# DS 2.1 Machine Learning
 
 ## Course Description
 
 Students will learn the foundational concepts and techniques of machine learning and how to apply those techniques to data science. Principles of data science and machine learning will be examined and applied to problem solving.  Students will master data science processes and its applications, including how to wrangle and use data to train classification or prediction models. To demonstrate mastery, students will apply these techniques to develop and train models on data sets using industry-standard modern software libraries and tools. Students will develop “sharp” data science questions, select a data set and apply a variety of methods to explore those questions and find relevant answers.
 
+### Why you should know this (optional)
+
+Explain why students should care to learn the material presented in this class.
+
+## Course Specifics
+
+Weeks to Completion:  7 <br>
+Total Seat Hours:  37.5 hours <br>
+Total Out-of-Class Hours: 75 hours <br>
+Total Hours: 112.5 hours <br>
+Units:  3 units <br>
+Delivery Method:  Residential <br>
+Class Sessions:  14 classes, 7 labs
+
+## Prerequisites:  
+
+MOB 1.1, MOB 1.2, MOB 1.3, MOB 1.4 <br>
+
+## Learning Objectives or Competencies (5-8)
+
+Students by the end of the course will be able to ...
+
+1. Identify & Describe
+1. Explain
+1. Compare & Contrast
+1. Design & Implement
+1. Master
+
 
 
 ## Schedule
 
-**Course Dates:** Tuesday, August 28 – Thursday, October 11, 2018 (7 weeks)
+**Course Dates:** Tuesday, October 23 – Thursday, December 13, 2018 (7 weeks)
 
 **Class Times:** Tuesday and Thursday at 3:30–5:20pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Tuesday, August 28    | [Data Science Process & Tools] |
-|   2   | Thursday, August 30    | [Data Manipulation & Visualization] |
-|   3   |  Tuesday, September 4  | [Data Cleaning & Descriptive Statistics] |
-|   4   | Thursday, September 6  | [Conditional Probability] |
-|   5   |  Tuesday, September 11 | [Statistical Distributions & Sampling] |
-|   6   | Thursday, September 13 | [Normal Distribution, CLT & Z-Scores] |
-|   7   |  Tuesday, September 18 | NPS Project Data Wrangling Check-in |
-|   8   | Thursday, September 20 | NPS Project Data Analysis Presentations |
-|   9   |  Tuesday, September 25 | [Hypothesis Testing & Acceptable Error] |
-|  10   | Thursday, September 27 | [Confidence Intervals & Outliers] |
-|  11   |  Tuesday, October 2    | [Statistical Analysis] |
-|  12   | Thursday, October 4    | [Time Series Data & Applications] |
-|       |  Tuesday, October 9    | *No Class (Indigenous Peoples' Day)* |
-|  13   | Thursday, October 11   | Custom Project Presentations |
+|   1   |  Tuesday, October 23    | [Lesson 1] |
+|   2   | Thursday, October 25    | [Lesson 2] |
+|   3   |  Tuesday, October 30  | [Lesson 1] |
+|   4   | Thursday, November 1  | [Lesson 1] |
+|   5   |  Tuesday, November 6 | [Lesson 1] |
+|   6   | Thursday, November 8 | [Lesson 1] |
+|   7   |  Tuesday, November 13 | [Lesson 1] |
+|   8   | Thursday, November 15 | [Lesson 1] |
+|      |  Tuesday, November 20 | **Don Rags** |
+|     | Thursday, November 22 | **Fall Break** |
+|  9   |  Tuesday, November 27    | [Lesson 1] |
+|  10   | Thursday, November 29    | [Lesson 1] |
+|  11     |  Tuesday, December 4    | [Lesson 1] |
+|  12   | Thursday, December 6   | [Lesson 1] |
+|  13   | Tuesday, December 11   | [Lesson 1] |
+|  14   | Thursday, December 13   | Final Exams |
 
-[Data Science Process & Tools]: Lessons/DataScienceProcess.md
-[Data Manipulation & Visualization]: Lessons/DataVisualization.md
-[Data Cleaning & Descriptive Statistics]: Lessons/DescriptiveStatistics.md
-[Conditional Probability]: Lessons/ConditionalProbability.md
-[Statistical Distributions & Sampling]: Lessons/StatisticalDistributions.md
-[Normal Distribution, CLT & Z-Scores]: Lessons/NormalDistribution.md
-[Hypothesis Testing & Acceptable Error]: Lessons/HypothesisTesting.md
-[Confidence Intervals & Outliers]: Lessons/ConfidenceIntervals.md
-[Statistical Analysis]: Lessons/StatisticalAnalysis.md
-[Time Series Data & Applications]: Lessons/TimeSeriesData.md
+[Lesson 1]: Lessons/Lesson1.md
+[Lesson 2]: Lessons/Lesson2.md
 
+## Class Assignments [Remove header if you like]
+- List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
+- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
+- Projects should be linked to a project page which has a description & requirements.
 
-## Course Specifics
+### Tutorials
+[REWORD AS RELEVANT TO YOUR COURSE] Tutorials are to help you get started in a topic.  They are graded on completion only.
 
-- Weeks to Completion: 7
-- Total Seat Hours: 37.5 hours
-- Total Out-of-Class Hours: 75 hours
-- Total Hours: 112.5 hours
-- Units: 3 units
-- Delivery Method: Residential
-- Class Sessions: 13 classes, 7 labs
+- [Do Cool Stuff Tutorial]()
 
+### Projects
+[REWORD AS RELEVANT TO YOUR COURSE] Projects are a chance for you to build and ship code that is based on class concepts.  Many are open ended allowing you to be creative and to have individual work for your portfolio.
+- [Sample Project](Sample_Project.md)
+    -   [Sample Project Rubric](Sample_Rubric.md)
 
-## Prerequisites
-
-Students must pass the following course and demonstrate mastery of its competencies:
-- CS 1.2: How Data Structures Work
-
-
-## Learning Outcomes (Competencies)
-
-By the end of this course, students will be able to:
-- Use industry-standard libraries (Pandas and NumPy) to clean and preprocess a dataset
-- Describe and implement a plan for finding and dealing with null values, outliers, and other problems in a dataset
-- Explain the central limit theorem and why it is important in statistical analysis
-- Use statistical methods to calculate a z-score, then interpret and explain what it means
-
-
-## Tutorials
-
-Students will complete the following guided tutorials in this course:
-- [Exploratory Data Analysis & Visualization with App Store Dataset](http://make.sc/app-store-dataset)
-- Advanced Data Analysis & Visualization with Pokémon Dataset
-
-
-## Projects
-
-Students will complete the following self-guided projects in this course:
-- [Make School Summer Academy NPS Data Wrangling & Analysis](http://make.sc/sa-nps-project)
-- Custom Project: Students will select a problem, identify data sources, analyze and present findings
-
+### Other Class assignments
 
 ## Evaluation
 
-To pass this course, students must meet the following requirements:
-- No more than two unexcused absences ("no-call-no-shows")
-- No more than four excused absences (communicated in advance)
+To pass this course you must meet the following requirements:
+
+- Pass all required tutorials and projects (see associated rubrics)
+- Pass the final summative assessment >=75%
+- Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
-- Finish all required tutorials and projects
-- Pass the final exam (summative assessment). The topics for final exam would be:
-1- Null hypothesis, the steps to accept or reject it
-2- Statistical terms and meanings such as Z-distribution, CDF, SF, ...
-3- Histogram, density estimations
-4- Outlier detection
-5- Correlation
+
+## Attendance
+ Just like any job, attendance at Make School is required and a key component of your success. Attendance is being onsite from 9:30 to 5:30 each day, attending all scheduled sessions: classes, huddles, etc. and working in the study labs when not in a scheduled session. Working onsite allows you to learn with your peers, have access to support from TAs, instructors and others, and is vital to your learning.
+
+Attendance requirements for scheduled sessions are:
+- No more than two no call no shows per term in any scheduled session.
+- No more than four excused absences per term in any scheduled session.
+
+Failure to meet these requirements will result in a PIP (Participation Improvement Plan).  Failure to improve after the PIP will result in not being invited back next term.   
 
 
-## Make School Policies
+## Make School Course Policies
 
-- [Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)
-- [Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)
-- [Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)
-- [Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
-- [Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
-- [Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)
-
-
-## Repository Setup
-
-Please follow [these instructions](Setup.md) exactly to set up your fork of this repository.
+[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
+[Accommodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
+[Attendance Policy]()  
+[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
+[Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
+<br>
+[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)<br>
+[Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
