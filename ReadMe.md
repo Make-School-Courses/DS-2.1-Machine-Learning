@@ -42,22 +42,22 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Tuesday, October 23    | [Introduction to Machine Learning] |
-|   2   | Thursday, October 25    | [Linear Regression] |
-|   3   |  Tuesday, October 30  | [Lesson 1] |
-|   4   | Thursday, November 1  | [Lesson 1] |
-|   5   |  Tuesday, November 6 | [Lesson 1] |
-|   6   | Thursday, November 8 | [Lesson 1] |
-|   7   |  Tuesday, November 13 | [Lesson 1] |
-|   8   | Thursday, November 15 | [Lesson 1] |
-|      |  Tuesday, November 20 | **Don Rags** |
-|     | Thursday, November 22 | **Fall Break** |
-|  9   |  Tuesday, November 27    | [Lesson 1] |
-|  10   | Thursday, November 29    | [Lesson 1] |
-|  11     |  Tuesday, December 4    | [Lesson 1] |
-|  12   | Thursday, December 6   | [Lesson 1] |
-|  13   | Tuesday, December 11   | [Lesson 1] |
-|  14   | Thursday, December 13   | Final Exams |
+|   1   |  Monday, October 22    | [Introduction to Machine Learning] |
+|   2   | Wednesday, October 24    | [Linear Regression] |
+|   3   |  Monday, October 29  | [Lesson 1] |
+|   4   | Wednesday, November 31  | [Lesson 1] |
+|   5   |  Monday, November 5 | [Lesson 1] |
+|   6   | Wednesday, November 7 | [Lesson 1] |
+|   7   |  Monday, November 12 | [Lesson 1] |
+|   8   | Wednesday, November 14 | [Lesson 1] |
+|      |  Monday, November 19 | **Don Rags** |
+|     | Wednesday, November 21 | **Fall Break** |
+|  9   |  Monday, November 26    | [Lesson 1] |
+|  10   | Wednesday, November 28    | [Lesson 1] |
+|  11     |  Monday, December 3    | [Lesson 1] |
+|  12   | Wednesday, December 5   | [Lesson 1] |
+|  13   | Monday, December 10   | [Lesson 1] |
+|  14   | Wednesday, December 12   | Final Exams |
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
 [Linear Regression]: Lessons/LinearRegression.md
