@@ -44,7 +44,7 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |   1   |  Monday, October 22    | [Introduction to Machine Learning] |
 |   2   | Wednesday, October 24    | [Linear Regression] |
-|   3   |  Monday, October 29  | [Lesson 1] |
+|   3   |  Monday, October 29  | [Support Vector Machine] |
 |   4   | Wednesday, November 31  | [Lesson 1] |
 |   5   |  Monday, November 5 | [Lesson 1] |
 |   6   | Wednesday, November 7 | [Lesson 1] |
@@ -61,6 +61,7 @@ Students by the end of the course will be able to ...
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
 [Linear Regression]: Lessons/LinearRegression.md
+[Support Vector Machine]: Lessons/SupportVectorMachine.md
 
 ## Class Assignments [Remove header if you like]
 - List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
