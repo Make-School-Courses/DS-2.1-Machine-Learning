@@ -71,6 +71,22 @@ def filterby(df, key, value, operator="="):
 pd.DataFrame.filterby = filterby
 
 """
+Custom Confusion Matrix Function for Better Visualization
+"""
+def cmat_(cm, labels=None):
+    ax = plt.subplot()
+    sns.heatmap(cm, annot=True, fmt="g", ax=ax)
+    
+    ax.set_title("Confusion Matrix")
+    ax.set_xlabel("Predicted Labels")
+    ax.set_ylabel("True Labels")
+    
+    if labels:
+        ax.xaxis.set_ticklabels(labels)
+        ax.yaxis.set_ticklabels(labels)
+    plt.show()
+
+"""
 Display Class to Preview DataFrame Concatenation and Joining
 """
 class Display_Preview(object):
