@@ -22,15 +22,21 @@ all_accuracies = cross_val_score(estimator=classifier, X=X.data, y=y.label, cv=5
 ## Activity: Find the best C and Gamma for SVM classifier with RBF kernel for iris dataset (20 min)
 
 `from sklearn import svm, grid_search`
+
 `def svc_param_selection(X, y, nfolds):`
+
     `Cs = [0.001, 0.01, 0.1, 1, 10]`
+
     `gammas = [0.001, 0.01, 0.1, 1]`
+
     `param_grid = {'C': Cs, 'gamma' : gammas}`
+
     `grid_search = GridSearchCV(svm.SVC(kernel='rbf'), param_grid, cv=nfolds)`
+
     `grid_search.fit(X, y)`
+
     `return grid_search.best_params_`
-
-
+    
 
 ## A Classifier Model Performance Evaluation  (10 min)
 
