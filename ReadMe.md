@@ -46,7 +46,7 @@ Students by the end of the course will be able to ...
 |   2   | Wednesday, October 24    | [Linear Regression] |
 |   3   |  Monday, October 29  | [Support Vector Machine] |
 |   4   | Wednesday, November 31  | [Model Evaluation] |
-|   5   |  Monday, November 5 | [Lesson 1] |
+|   5   |  Monday, November 5 | [Principal Component Analysis] |
 |   6   | Wednesday, November 7 | [Lesson 1] |
 |   7   |  Monday, November 12 | [Lesson 1] |
 |   8   | Wednesday, November 14 | [Lesson 1] |
@@ -63,6 +63,7 @@ Students by the end of the course will be able to ...
 [Linear Regression]: Lessons/LinearRegression.md
 [Support Vector Machine]: Lessons/SupportVectorMachine.md
 [Model Evaluation]: Lessons/ModelEvaluation.md
+[Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
 
 ## Class Assignments [Remove header if you like]
 - List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
