@@ -4,9 +4,9 @@
 
 Students will learn the foundational concepts and techniques of machine learning and how to apply those techniques to data science. Principles of data science and machine learning will be examined and applied to problem solving.  Students will master data science processes and its applications, including how to wrangle and use data to train classification or prediction models. To demonstrate mastery, students will apply these techniques to develop and train models on data sets using industry-standard modern software libraries and tools. Students will develop “sharp” data science questions, select a data set and apply a variety of methods to explore those questions and find relevant answers.
 
-### Why you should know this (optional)
+### Why you should know this?
 
-Explain why students should care to learn the material presented in this class.
+Machine learning has shaped our world. Machine learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.
 
 ## Course Specifics
 
@@ -24,13 +24,13 @@ DS 1.1, CS 1.1 <br>
 
 ## Learning Objectives or Competencies (5-8)
 
-Students by the end of the course will be able to ...
+By the end of the course the students will be able to
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Master
+1. Identify a prediction problem and choose the appropriate regression model
+1. Identify a classification problem and choose the appropriate  classifier
+1. Evaluate either a regression model or a classifier
+1. Cluster un-label dataset to groups   
+1. Compare different models and choose the best model while tune the model hyper-parameters
 
 
 
@@ -47,16 +47,16 @@ Students by the end of the course will be able to ...
 |   3   |  Monday, October 29  | [Support Vector Machine] |
 |   4   | Wednesday, November 31  | [Model Evaluation] |
 |   5   |  Monday, November 5 | [Principal Component Analysis] |
-|   6   | Wednesday, November 7 | [Lesson 1] |
-|   7   |  Monday, November 12 | [Lesson 1] |
-|   8   | Wednesday, November 14 | [Lesson 1] |
+|   6   | Wednesday, November 7 | [Decision Tree] |
+|   7   |  Monday, November 12 | [Clustering] |
+|   8   | Wednesday, November 14 | [Naive Bayes] |
 |      |  Monday, November 19 | **Don Rags** |
 |     | Wednesday, November 21 | **Fall Break** |
-|  9   |  Monday, November 26    | [Lesson 1] |
-|  10   | Wednesday, November 28    | [Lesson 1] |
-|  11     |  Monday, December 3    | [Lesson 1] |
-|  12   | Wednesday, December 5   | [Lesson 1] |
-|  13   | Monday, December 10   | [Lesson 1] |
+|  9   |  Monday, November 26    | [Ensemble Methods] |
+|  10   | Wednesday, November 28    | [Feature Selection] |
+|  11     |  Monday, December 3    | [SMOTE] |
+|  12   | Wednesday, December 5   | [Pipeline] |
+|  13   | Monday, December 10   | [Project Presentation] |
 |  14   | Wednesday, December 12   | Final Exams |
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
@@ -64,6 +64,7 @@ Students by the end of the course will be able to ...
 [Support Vector Machine]: Lessons/SupportVectorMachine.md
 [Model Evaluation]: Lessons/ModelEvaluation.md
 [Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
+[Ensemble Methods]:Lessons/EnsembleMethods.md
 
 ## Class Assignments [Remove header if you like]
 - List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
