@@ -4,10 +4,9 @@
 
 - Many weak algorithms working together do better than 1 big, monolithic algorithm
 
-- They are two major groups for ensemble methods: **Random Forests** and **Gradient Boosted Trees**
+- They are two major groups for ensemble methods: ***Random Forests*** and ***Gradient Boosted Trees***
 
 ```python
-
 from sklearn.tree import DecisionTreeRegressor
 import numpy as np
 from sklearn.tree import export_graphviz
@@ -28,3 +27,4 @@ dot_data = export_graphviz(regre, out_file=None)
 graph = pydotplus.graph_from_dot_data(dot_data)
 graph.write_png('reg_tree.png')
 ```
+![](Images/intro_1.jpg)
