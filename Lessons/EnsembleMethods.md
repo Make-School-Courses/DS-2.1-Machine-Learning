@@ -27,4 +27,4 @@ dot_data = export_graphviz(regre, out_file=None)
 graph = pydotplus.graph_from_dot_data(dot_data)
 graph.write_png('reg_tree.png')
 ```
-![](../Notebooks/Images/intro_1.jpg)
+![](../Notebooks/Images/reg_tree.png)
