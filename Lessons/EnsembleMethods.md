@@ -27,5 +27,5 @@ dot_data = export_graphviz(regre, out_file=None)
 graph = pydotplus.graph_from_dot_data(dot_data)
 graph.write_png('reg_tree.png')
 ```
-- This is image
+- This is image represents a significant 
 ![](../Notebooks/Images/reg_tree.png)
