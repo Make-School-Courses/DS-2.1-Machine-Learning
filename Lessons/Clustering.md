@@ -67,7 +67,7 @@ print(prediction)
 
 ### K-means algorithm:
 
-Assume the inputs are `$x_1$`, `$x_2$`, ..., `$x_n$`. Choose `$K$` arbitrarily.
+Assume the inputs are ``$x_1$``, ``$x_2$``, ..., ``$x_n$``. Choose ``$K$`` arbitrarily.
 
 - Step 1 - Pick $K$ random points as cluster centers called centroids
 - Step 2 - Assign each $x_i$ to nearest cluster by calculating its distance to each centroid
