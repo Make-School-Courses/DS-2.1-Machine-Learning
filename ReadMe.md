@@ -65,6 +65,8 @@ By the end of the course the students will be able to
 [Model Evaluation]: Lessons/ModelEvaluation.md
 [Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
 [Ensemble Methods]:Lessons/EnsembleMethods.md
+[Decision Tree]: Lessons/DecisionTree.md
+[Clustering]: Lessons/Clustering.md
 
 ## Class Assignments [Remove header if you like]
 - List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
