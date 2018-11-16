@@ -67,10 +67,10 @@ print(prediction)
 
 ### K-means algorithm:
 
-Assume the inputs are ``$x_1$``, ``$x_2$``, ..., ``$x_n$``. Choose ``$K$`` arbitrarily.
+Assume the inputs are $$x_1$$, $$x_2$$, ..., $$x_n$$. Choose $$K$$ arbitrarily.
 
-- Step 1 - Pick $K$ random points as cluster centers called centroids
-- Step 2 - Assign each $x_i$ to nearest cluster by calculating its distance to each centroid
+- Step 1 - Pick $$K$$ random points as cluster centers called centroids
+- Step 2 - Assign each $$x_i$$ to nearest cluster by calculating its distance to each centroid
 - Step 3 - Find new cluster center by taking the average of the assigned points
 - Step 4 - Repeat Step 2 and 3 until none of the cluster assignments change
 
