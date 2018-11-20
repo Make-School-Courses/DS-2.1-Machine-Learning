@@ -67,23 +67,20 @@ By the end of the course the students will be able to
 [Ensemble Methods]:Lessons/EnsembleMethods.md
 [Decision Tree]: Lessons/DecisionTree.md
 [Clustering]: Lessons/Clustering.md
+[Naive Bayes]: Lessons/NaiveBayes.md
 
-## Class Assignments [Remove header if you like]
-- List (with links) of all course-level assignments (i.e. tutorials, challenge sets, contractor project, custom projects, etc)
-- Under each assignment link the rubric used to evaluate it or describe how it is evaluated.
+## Class Assignments
+- Apply Linear Regression for Boston Housing Dataset
+- Apply SVM for Breast Cancer Dataset
 - Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials
-[REWORD AS RELEVANT TO YOUR COURSE] Tutorials are to help you get started in a topic.  They are graded on completion only.
-
-- [Do Cool Stuff Tutorial]()
+- We'll be exploring basic machine learning algorithms applied on to simple datasets with an emphasis on getting basic model functionality
+- https://www.makeschool.com/academy/track/ds-2-1-classification-tutorial
 
 ### Projects
-[REWORD AS RELEVANT TO YOUR COURSE] Projects are a chance for you to build and ship code that is based on class concepts.  Many are open ended allowing you to be creative and to have individual work for your portfolio.
-- [Sample Project](Sample_Project.md)
-    -   [Sample Project Rubric](Sample_Rubric.md)
+- You will choose your own dataset to clean, investigate, and make predictions or classification or clustering on it
 
-### Other Class assignments
 
 ## Evaluation
 
