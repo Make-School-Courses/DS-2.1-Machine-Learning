@@ -57,7 +57,7 @@ print(X.shape)
 
 - $logP(spam | w_1, w_2, ..., w_n) \propto {\sum_{i=1}^{n}log P(w_i| spam)+ log P(spam)}$
 
-## Activity: Apply the naive Bayes to spam/ham email dataset:
+### Activity: Apply the naive Bayes to spam/ham email dataset:
 
 - Please read this article: https://pythonmachinelearning.pro/text-classification-tutorial-with-naive-bayes/
 
