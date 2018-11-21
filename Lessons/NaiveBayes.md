@@ -47,7 +47,7 @@ print(X.shape)
 
 ### Naive Bayes Classifier
 
-- The Bayes Theorem : $P(spam | w_1, w_2, ..., w_n) = {P(w_1, w_2, ..., w_n | spam)}/{P(w_1, w_2, ..., w_n)}$
+- The Bayes Theorem : `$P(spam | w_1, w_2, ..., w_n) = {P(w_1, w_2, ..., w_n | spam)}/{P(w_1, w_2, ..., w_n)}$`
 
 - Naive Bayes assumption is that each word is independent of all other words, In reality, this is not true! But lets try it out for real world examples
 
