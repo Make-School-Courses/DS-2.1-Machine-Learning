@@ -1,5 +1,12 @@
 # Principal Component Analysis
 
+
+## Class Learning Objectives/Competencies (5 min)
+
+1. What is PCA?
+1. Why do need dimensionality reduction?
+
+
 ## What is principal component analysis? (5 min)
 
 - PCA is a mathematical technique to reduce redundancy in the data

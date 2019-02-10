@@ -1,5 +1,12 @@
 # Support Vector Machine
 
+## Class Learning Objectives/Competencies (5 min)
+
+1. What is SVM?
+1. What are the subclasses of SVM?
+1. What is grid search?
+
+
 # What is support vector machine (SVM)? (5 min)
 
 - SVM is a type of supervised machine learning classification algorithm
@@ -7,13 +14,6 @@
 - For higher dimension data this line would be a hyperplane
 - SVM chooses the decision boundary that maximizes the distance from the nearest data points of all the classes
 
-
-## Class Learning Objectives/Competencies (5 min)
-
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
 
 ## Initial Exercise (15 min)
 
@@ -57,4 +57,4 @@
 
 ## Additional Resources
 
-1. Links to additional readings and videos
+1. https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/SVM_tutorial.ipynb
