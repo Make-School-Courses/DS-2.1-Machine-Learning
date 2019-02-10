@@ -1,64 +1,60 @@
-## Minute-by-Minute [OPTIONAL]
-
-| **Elapsed** | **Time**  | **Activity**              |
-| ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
-
-# What we learned in DS 1.1 (5 min)
-
-Review of learning topics as a data analyst.
+# Introduction to Machine Learning
 
 ## Class Learning Objectives/Competencies (5 min)
 
-1. Identify and describe
-1. Define
-1. Design
-1. Implement
+1. What is data analysis, machine learning and data engineer?
+1. What topics DS 2.1 covers?
+1. OOP paradigm in Sklearn
 
-## Initial Exercise (15 min)
+## What we have learned in DS 1.1 as a Data Analyst?
+- Learned the principles of effective storytelling
+- You begin making proposals and decisions based on analysis
+- You Explored Data Analysis (EDA), you focused on the basics of statistical inference, hypothesis testing, correlation
+Check this out as a good resource for Data Analyst/ Data Engineer/ Data Scientist roles:
+https://www.springboard.com/blog/wp-content/uploads/2016/07/UltimateGuidetoDataScienceInterviews-1.pdf
 
-- Mention the main jobs in data science
-- Prime the Pump (e.g. which role as data engineer, data scientist or data analyst make better money)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on mentioning five methods in pandas and
-- Concept Test
+## What we are going to learn in DS 2.1 which covers Machine Learning?
 
-## Overview/TT I (20 min)
+### what is machine learning?
+- Use data and algorithm that predict or classify the unseen upcoming data with acceptable accuracy
 
-- what is machine learning?
-- Why learn this?
-- Best practices
-- Personal anecdote
+### Two major machine learning algorithm:
+- Supervised Learning
+- Unsupervised Learning
+The supervised learning is used to do:
+Regression --> Temperature prediction, stock market prediction, next purchased item prediction
+Classification --> Is an email spam or not-spam, is dog in the image or cat, is a comment about a post positive or negative or neutral
+The unsupervised learning is used to do:
+Cluster data into groups
+Reduce the dimension of features
 
-## In Class Activity I (30 min)
+## Machine Learning Components:
+![](../Notebooks/Images/intro_1.jpg)
 
-- I do, We do, You do
-- Reading & Discussion about data scaling
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program about one-hot encoding and label encoding
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
+## What Level of Math Do We Need for Machine Learning?
+I do recommend to refresh or learn the following topics:
+- Calculus
+- Linear Algebra
+- Probability and statistics
+![](../Notebooks/Images/intro_2.png)
 
-## Overview/TT II (optional) (20 min)
+## How do we evaluate the machine learning models?
+For supervised learning it is possible to evaluate the model from train and test data
+For regression, the evaluation metrics are:
+- Mean Squared Error (MSE)
+- Mean Absolute Error (MAE)
+For classification, the evaluation metrics are:
+- Classification Accuracy
+- Classification Recall, Precision and F1 score
+For unsupervised learning there are no systematic approach to evaluate the models but the are ways to do it
 
-## In Class Activity II (optional) (30 min)
+## Scaling, Normalization, One-hot encoding, Label encoding
+Please read: https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_quick_guide.htm
+Please read: http://scikit-learn.org/stable/modules/preprocessing.html
+http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html
+Also, look at the first page here: https://www.analyticsvidhya.com/infographics/Scikit-Learn-Infographic.pdf
 
-## Wrap Up (5 min)
-
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
-
-## Additional Resources
-
-1. Links to additional readings and videos
+## The Python package that we use for ML
+- Sklearn
+The OOP paradigm for all Sklearn models:
+https://www.springboard.com/blog/wp-content/uploads/2016/07/UltimateGuidetoDataScienceInterviews-1.pdf
