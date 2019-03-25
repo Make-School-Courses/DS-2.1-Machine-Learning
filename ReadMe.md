@@ -20,7 +20,7 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-DS 1.1, CS 1.1 <br>
+- [DS 1.1](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis)
 
 ## Learning Objectives or Competencies (5-8)
 
