@@ -54,6 +54,14 @@ Please read: http://scikit-learn.org/stable/modules/preprocessing.html
 http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html
 Also, look at the first page here: https://www.analyticsvidhya.com/infographics/Scikit-Learn-Infographic.pdf
 
+```Python
+import numpy as np
+X_train = np.array([[ 1., -1.,  2.], [ 2.,  0.,  0.], [ 0.,  1., -1.]])
+(X_train[:,0]-X_train[:,0].mean())/X_train[:,0].std()
+(X_train[:,1]-X_train[:,1].mean())/X_train[:,1].std()
+(X_train[:,2]-X_train[:,2].mean())/X_train[:,2].std()
+```
+
 ## The Python package that we use for ML
 - Sklearn
 The OOP paradigm for all Sklearn models:
