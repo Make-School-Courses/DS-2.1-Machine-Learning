@@ -20,44 +20,42 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-DS 1.1, CS 1.1 <br>
+- [DS 1.1](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis)
 
 ## Learning Objectives or Competencies (5-8)
 
 By the end of the course the students will be able to
 
 1. Identify a prediction problem and choose the appropriate regression model
-1. Identify a classification problem and choose the appropriate  classifier
+1. Identify a classification problem and choose the appropriate classifier
 1. Evaluate either a regression model or a classifier
-1. Cluster un-label dataset to groups   
-1. Compare different models and choose the best model while tune the model hyper-parameters
+1. Cluster un-labeled datasets to groups   
+1. Compare models and choose the best model for the task, while continuing to tune the model's hyper-parameters
 
 
 
 ## Schedule
 
-**Course Dates:** Monday, October 22 – Wednesday, December 12, 2018 (7 weeks)
+**Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
 
-**Class Times:** Monday and Wednesday at 1:30–3:20pm (13 class sessions)
+**Class Times:** Tuesday and Thursday at 1:30–3:20pm (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Monday, October 22    | [Introduction to Machine Learning] |
-|   2   | Wednesday, October 24    | [Linear Regression] |
-|   3   |  Monday, October 29  | [Support Vector Machine] |
-|   4   | Wednesday, November 31  | [Model Evaluation] |
-|   5   |  Monday, November 5 | [Principal Component Analysis] |
-|   6   | Wednesday, November 7 | [Decision Tree] |
-|   7   |  Monday, November 12 | [Clustering] |
-|   8   | Wednesday, November 14 | [Naive Bayes] |
-|      |  Monday, November 19 | **Don Rags** |
-|     | Wednesday, November 21 | **Fall Break** |
-|  9   |  Monday, November 26    | [Ensemble Methods] |
-|  10   | Wednesday, November 28    | [Feature Selection] |
-|  11     |  Monday, December 3    | [SMOTE] |
-|  12   | Wednesday, December 5   | [Pipeline] |
-|  13   | Monday, December 10   | [Project Presentation] |
-|  14   | Wednesday, December 12   | Final Exams |
+|   1   |  Tuesday, April 2    | [Introduction to Machine Learning] |
+|   2   | Thursday, April 4    | [Linear Regression] |
+|   3   |  Tuesday, April 9  | [Support Vector Machine] |
+|   4   | Thursday, April 11  | [Model Evaluation] |
+|   5   |  Tuesday, April 16 | [Principal Component Analysis] |
+|   6   | Thursday, April 18 | [Decision Tree] |
+|   7   |  Tuesday, April 23 | [Clustering] |
+|   8   | Thursday, April 25 | [Naive Bayes] |
+|  9   |  Tuesday, April 30    | [Ensemble Methods] |
+|  10   | Thursday, May 2    | [Feature Selection] |
+|  11     |  Tuesday, May 7    | [SMOTE] |
+|  12   | Thursday, May 9   | [Pipeline] |
+|  13   | Tuesday, May 14   | [Project Presentation] |
+|  14   | Thursday, May 16   | Final Exams |
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
 [Linear Regression]: Lessons/LinearRegression.md
@@ -81,6 +79,28 @@ By the end of the course the students will be able to
 ### Projects
 - You will choose your own dataset to clean, investigate, and make predictions or classification or clustering on it
 
+**All projects will require a minimum of 10 commits, and must take place throughout the entirety of the course**
+
+- **Good Example:** 40+ commits throughout the length of the course, looking for a healthy spattering of commits each week (such as 3-5 per day).
+- **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
+- **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class. 
+
+#### Why are we doing this?
+
+We want to encourage best practices that you will see working as a professional software engineer. Breaking up a project by doing a large amount of commits helps engineers in the following ways:
+
+- It's much easier to retrace your steps if you break your project/product/code up into smaller pieces
+- It helps with being able to comprehend the larger problem, and also will help with your debugging (i.e. finding exactly when you pushed that piece of broken code)
+- It allows for more streamlined, iterative communication in your team, as it's much easier to hand off a small change to someone (updating a function) than a huge one (changed the architecture of the project)
+
+Through this requirement, we hope to encourage you to think about projects with an iterative, modular mindset. Doing so will allow you to break projects down into smaller milestones that come together to make your fully-realized solution.
+
+### Final Exam
+
+-  **Passing the exam is a requirement for passing the class.**
+- You will have 2 hours to complete this exam - it will be in class using paper and pencil, or a format of the instructor's choosing
+- There are no retakes of the exam.
+- If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
 
 ## Evaluation
 
@@ -103,11 +123,11 @@ Failure to meet these requirements will result in a PIP (Participation Improveme
 
 ## Make School Course Policies
 
-[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
-[Accommodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
-[Attendance Policy]()  
-[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
-[Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
+[Academic Honesty](https://make.sc/academic-honesty)<br>
+[Accommodations for Students](https://make.sc/accommodations-for-students)<br>
+[Attendance Policy](https://make.sc/attendance-policy)  
+[Diversity and Inclusion Policy](https://make.sc/diversity-and-inclusion-policy)<br>
+[Grading System](https://make.sc/grading-system)
 <br>
-[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)<br>
-[Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
+[Title IX Policy](https://make.sc/title-ix-policy)<br>
+[Program Learning Outcomes](https://make.sc/program-learning-outcomes)
