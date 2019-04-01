@@ -60,6 +60,8 @@ X_train = np.array([[ 1., -1.,  2.], [ 2.,  0.,  0.], [ 0.,  1., -1.]])
 (X_train[:,0]-X_train[:,0].mean())/X_train[:,0].std()
 (X_train[:,1]-X_train[:,1].mean())/X_train[:,1].std()
 (X_train[:,2]-X_train[:,2].mean())/X_train[:,2].std()
+(X_train-X_train.mean(axis=0))/X_train.std(axis=0)
+
 
 X_test = [[-1., 1., 0.]]
 (-1 - X_train[:,0].mean())/X_train[:,0].std()
