@@ -50,8 +50,10 @@ For unsupervised learning there are no systematic approach to evaluate the model
 
 ## Scaling, Normalization, One-hot encoding, Label encoding
 Please read: https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_quick_guide.htm
+
 Please read: http://scikit-learn.org/stable/modules/preprocessing.html
 http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.normalize.html
+
 Also, look at the first page here: https://www.analyticsvidhya.com/infographics/Scikit-Learn-Infographic.pdf
 
 ```Python
