@@ -60,6 +60,14 @@ X_train = np.array([[ 1., -1.,  2.], [ 2.,  0.,  0.], [ 0.,  1., -1.]])
 (X_train[:,0]-X_train[:,0].mean())/X_train[:,0].std()
 (X_train[:,1]-X_train[:,1].mean())/X_train[:,1].std()
 (X_train[:,2]-X_train[:,2].mean())/X_train[:,2].std()
+
+X_test = [[-1., 1., 0.]]
+(-1 - X_train[:,0].mean())/X_train[:,0].std()
+(1 - X_train[:,1].mean())/X_train[:,1].std()
+(0 - X_train[:,2].mean())/X_train[:,2].std()
+
+# How preprocessing.MinMaxScaler() works
+(X_train - X_train.min(axis=0)) / (X_train.max(axis=0) - X_train.min(axis=0)
 ```
 
 ## The Python package that we use for ML
