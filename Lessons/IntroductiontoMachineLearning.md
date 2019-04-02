@@ -29,7 +29,7 @@ Cluster data into groups
 Reduce the dimension of features
 
 ## Machine Learning Components:
-![](../Notebooks/Images/intro_1.jpg)
+![](../Notebooks/Images/machine-learning.png)
 
 ## What Level of Math Do We Need for Machine Learning?
 I do recommend to refresh or learn the following topics:
