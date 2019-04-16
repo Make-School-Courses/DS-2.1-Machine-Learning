@@ -3,8 +3,10 @@
 
 ## Class Learning Objectives/Competencies (5 min)
 
-1. What is PCA?
-1. Why do need dimensionality reduction?
+By the end of  class, you’ll be able to…
+
+- Describe how PCA works
+- Explain why you need dimensionality reduction
 
 
 ## What is principal component analysis? (5 min)
@@ -18,9 +20,11 @@
 - https://www.youtube.com/watch?v=5HNr_j6LmPc&t=264s
 
 ## Activity: are the countries in great UK different in terms of food? (20 min)
-- In the table is the average consumption of 17 types of food in grams per person per week for every country in the UK
+The last section in the [Setosa article](http://setosa.io/ev/principal-component-analysis/) discusses eating in the UK. Let's dive deeper into that:
+
+- In the table, we see the average consumption of 17 types of food in grams per person per week for every country in the UK
 - It would be great if we represent difference among UK countries based on the food they eat visually
-- Write a Python code that visualize the PCA component for the dataset
+- Write a Python script that visualizes the PCA component for the dataset
 
 ## The mathematics for eigenvalue and eigenvector (20 min)
 - http://www.math.harvard.edu/archive/20_spring_05/handouts/ch05_notes.pdf
