@@ -1,7 +1,8 @@
 ## Learning Objectives
-- The tree based structure for classification will be learned
-- Entropy and mutual information are two metrics that define the tree root and leafs
-- Apply decision tree to lens and tennis dataset
+
+- Describe a tree based structure for classification
+- Define the tree “roots” and “leaves” through entropy and mutual information
+- Apply decision trees to lens and tennis datasets
 
 ### Decision Tree
 
