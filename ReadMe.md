@@ -86,9 +86,9 @@ By the end of the course the students will be able to
 - **Bad Example:** 10 commits on one day during the course and no others. Students who do this will be at severe risk of not passing the class.
 - **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
 
-- The [Final Project Guideline for DS 2.1] (https://docs.google.com/document/d/1Oc7kbLBC_JRURMLmNREqriWr2Xrywzyh7_P7BzHXtWk/edit)
+- The [Final Project Guideline for DS 2.1](https://docs.google.com/document/d/1Oc7kbLBC_JRURMLmNREqriWr2Xrywzyh7_P7BzHXtWk/edit)
 
-- The [Rubric for Final Project] (https://docs.google.com/document/d/15XaC_QRp7v7GuhIYUe54XdQSGnmcVOjrQgFmVISB4pA/edit)
+- The [Rubric for Final Project](https://docs.google.com/document/d/15XaC_QRp7v7GuhIYUe54XdQSGnmcVOjrQgFmVISB4pA/edit)
 
 
 #### Why are we doing this?
