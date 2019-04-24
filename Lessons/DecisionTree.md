@@ -1,4 +1,4 @@
-## Learning Objectives
+## Learning Objectives [Slides](./Notebooks/simple_Decison_Tree.ipynb)
 
 - Describe a tree based structure for classification
 - Define the tree “roots” and “leaves” through entropy and mutual information
