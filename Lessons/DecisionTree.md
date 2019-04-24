@@ -1,4 +1,4 @@
-## Learning Objectives [Slides](./Notebooks/simple_Decision_Tree.ipynb)
+## Learning Objectives [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_Decision_Tree.ipynb)
 
 - Describe a tree based structure for classification
 - Define the tree “roots” and “leaves” through entropy and mutual information
