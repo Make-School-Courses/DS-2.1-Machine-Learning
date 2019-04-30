@@ -1,1 +1,1 @@
-# Machine Learning Steps [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/ML%20Models%20Diagram.pptx)
+# Machine Learning Steps [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/ML%20Models.key)
