@@ -66,7 +66,7 @@ By the end of the course the students will be able to
 [Ensemble Methods]:Lessons/EnsembleMethods.md
 [Decision Tree]: Lessons/DecisionTree.md
 [Clustering]: Lessons/Clustering.md
-[Review Session]: Lessons/Review.md
+
 [Naive Bayes]: Lessons/NaiveBayes.md
 
 ## Class Assignments
