@@ -52,8 +52,8 @@ By the end of the course the students will be able to
 |   8   | Thursday, April 25 | [Clustering] |
 |  9   |  Tuesday, April 30    | [Review Session] |
 |  10   | Thursday, May 2    | [Naive Bayes] |
-|  11     |  Tuesday, May 7    | [Ensemble Methods] |
-|  12   | Thursday, May 9   | [Feature Selection + SMOTE + Pipeline] |
+|  11     |  Tuesday, May 7    | [TFIDF and its Application] |
+|  12   | Thursday, May 9   | [Ensemble Methods] |
 |  13   | Tuesday, May 14   | Final Exam |
 |  14   | Thursday, May 16   | Project Presentation |
 
@@ -68,7 +68,8 @@ By the end of the course the students will be able to
 [Clustering]: Lessons/Clustering.md
 [Review Session]: Lessons/Review.md
 [Naive Bayes]: Lessons/NaiveBayes.md
-
+[TFIDF and its Application]: Lessons/TFIDF.md
+[Ensemble Methods]: Lessons/EnsembleMethods.md
 ## Class Assignments
 - Apply Linear Regression for Boston Housing Dataset
 - Apply SVM for Breast Cancer Dataset
