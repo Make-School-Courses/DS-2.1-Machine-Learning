@@ -110,6 +110,8 @@ Through this requirement, we hope to encourage you to think about projects with 
 - There are no retakes of the exam.
 - If you have a disability that needs an accommodation such as extended time or a different format, please take advantage of our [accommodations program](make.sc/disability-policy).
 
+- [Study Guide](https://docs.google.com/document/d/19uRmjtBVdyBdm--35uXiU3EKgh24JxPvHLXLOvmEeB8/edit#)
+
 ## Evaluation
 
 To pass this course you must meet the following requirements:
