@@ -1,4 +1,4 @@
-## Learning Objectives [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_ensemble.ipynb)
+## Learning Objectives [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_Ensemble.ipynb)
 - we learn how we can apply multiple ML models and combine each ML model result in an efficient way
 - Will talk about Random Forest and Boosting methods
 
