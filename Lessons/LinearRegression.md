@@ -1,4 +1,4 @@
-# Linear Regression
+# Linear Regression [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_learn_regression.ipynb)
 
 ## Learning Objectives (Competencies)
 By the end of this lesson, students will be able to:
