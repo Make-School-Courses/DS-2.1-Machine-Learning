@@ -35,27 +35,27 @@ By the end of the course the students will be able to
 
 
 ## Schedule
+**Course Dates:** Monday, August 26 – Wednesday, October 9, 2019 (7 weeks)
 
-**Course Dates:** Tuesday, April 2 – Thursday, May 16, 2019 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 1:30–3:20pm (14 class sessions)
+**Class Times:** Monday and Wednesday at 1:30–3:20pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Tuesday, April 2    | [Introduction to Machine Learning] |
-|   2   | Thursday, April 4    | [Linear Regression] |
-|   3   |  Tuesday, April 9  | [Support Vector Machine] |
-|   4   | Thursday, April 11  | [Logistic Regression] |
-|   5   |  Tuesday, April 16 | [Model Evaluation] |
-|   6   | Thursday, April 18 | [Principal Component Analysis] |
-|   7   |  Tuesday, April 23 | [Decision Tree] |
-|   8   | Thursday, April 25 | [Clustering] |
-|  9   |  Tuesday, April 30    | [Review Session] |
-|  10   | Thursday, May 2    | [Naive Bayes] |
-|  11     |  Tuesday, May 7    | [TFIDF and its Application] |
-|  12   | Thursday, May 9   | [Ensemble Methods] |
-|  13   | Tuesday, May 14   | Final Exam |
-|  14   | Thursday, May 16   | Project Presentation |
+|  1 |   Mon, Aug 26                          | [Introduction to Machine Learning] |
+|  2 |   Wed, Aug 28                            | [Linear Regression] |
+|  - |   Mon, Sept 2                        | **NO CLASS** - Labor Day |
+|  3 |   Wed, Sept 4                            | [Support Vector Machine] |
+|  4 |   Mon, Sept 9                         | [Logistic Regression] |
+|  5 |   Wed, Sept 11                            | [Model Evaluation] |
+|  6 |   Mon, Sept 16                         | [Principal Component Analysis] |
+|  7 |   Wed, Sept 18                            | [Decision Tree] |
+|  8 |   Mon, Sept 23                           | [Clustering] |
+|  9 |   Wed, Sept 25                             | [Review Session] |  
+| 10 |   Mon, Sept 30                         | [Naive Bayes]|
+| 11 |   Wed, Oct 2                         | [TFIDF and its Application]  |
+| 12 |   Mon, Oct 7                         |  [Ensemble Methods] |
+| 13 |   Wed, Oct 9                         | Final Exam/Presentations  |
+
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
 [Linear Regression]: Lessons/LinearRegression.md
@@ -115,10 +115,13 @@ Through this requirement, we hope to encourage you to think about projects with 
 ## Evaluation
 
 To pass this course you must meet the following requirements:
-
-- Pass all required tutorials and projects (see associated rubrics)
-- Pass the final summative assessment >=75%
+- Should participate for all in-class activities
+- Accomplish all the homework
+- Finish the course tutorial(s)
+- Pass Final Exam >= 75% and Quizzes
+- Do final project and present it
 - Actively participate in class and abide by the attendance policy
+- Attend all Programming Labs 
 - Make up all classwork from all absences
 
 ## Attendance
