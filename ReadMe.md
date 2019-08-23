@@ -73,6 +73,7 @@ By the end of the course the students will be able to
 ## Class Assignments
 - Apply Linear Regression for Boston Housing Dataset
 - Apply SVM for Breast Cancer Dataset
+- Apply PCA and K-Means Clustering on wholesale customers dataset 
 - Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials
@@ -121,7 +122,7 @@ To pass this course you must meet the following requirements:
 - Pass Final Exam >= 75% and Quizzes
 - Do final project and present it
 - Actively participate in class and abide by the attendance policy
-- Attend all Programming Labs 
+- Attend all Programming Labs
 - Make up all classwork from all absences
 
 ## Attendance
