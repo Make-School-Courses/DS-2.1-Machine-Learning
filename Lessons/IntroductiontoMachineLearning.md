@@ -1,4 +1,4 @@
-# Introduction to Machine Learning
+# Introduction to Machine Learning[Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_intro_ML.ipynb)
 
 ## Class Learning Objectives/Competencies (5 min)
 
