@@ -35,9 +35,9 @@ By the end of the course the students will be able to
 
 
 ## Schedule
-**Course Dates:** Monday, August 26 – Wednesday, October 9, 2019 (7 weeks)
+**Course Dates:** Monday, March 30 – Wednesday, May 13, 20266701 (7 weeks)
 
-**Class Times:** Monday and Wednesday at 1:30–3:20pm (13 class sessions)
+**Class Times:** 2:30pm to 5:15pm on Monday, Wednesday (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
