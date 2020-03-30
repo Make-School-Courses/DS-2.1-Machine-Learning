@@ -43,18 +43,18 @@ By the end of the course the students will be able to
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |   Mon, March 30                           | [Introduction to Machine Learning] |
 |  2 |   Wed, April 1                            | [Linear Regression] |
-|  - |   Mon, April 6                        | **NO CLASS** - Labor Day |
-|  3 |   Wed, April 8                            | [Support Vector Machine] |
-|  4 |   Mon, April 13                         | [Logistic Regression] |
-|  5 |   Wed, April 15                            | [Model Evaluation] |
-|  6 |   Mon, April 20                         | [Principal Component Analysis] |
-|  7 |   Wed, April 22                            | [Decision Tree] |
-|  8 |   Mon, April 27                           | [Clustering] |
-|  9 |   Wed, April 29                             | [Review Session] |  
-| 10 |   Mon, May 4                         | [Naive Bayes]|
-| 11 |   Wed, May 6                         | [TFIDF and its Application]  |
-| 12 |   Mon, May 11                         |  [Ensemble Methods] |
-| 13 |   Wed, May 13                         | Final Exam/Presentations  |
+|  - |   Mon, April 6                        | [Support Vector Machine] |
+|  3 |   Wed, April 8                            | [Logistic Regression] |
+|  4 |   Mon, April 13                         | [Model Evaluation] |
+|  5 |   Wed, April 15                            | [Principal Component Analysis] |
+|  6 |   Mon, April 20                         | [Decision Tree] |
+|  7 |   Wed, April 22                            | [Clustering] |
+|  8 |   Mon, April 27                           | [Review Session] |
+|  9 |   Wed, April 29                             | [Naive Bayes] |  
+| 10 |   Mon, May 4                         | [TFIDF and its Application]|
+| 11 |   Wed, May 6                         | [Ensemble Methods]  |
+| 12 |   Mon, May 11                         |  Final Exam |
+| 13 |   Wed, May 13                         | Presentations  |
 
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
@@ -78,12 +78,12 @@ By the end of the course the students will be able to
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
 | [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, April 1  |  Wed, April 8 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  April 1    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, April 8    |  Wed, April 15   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 
 [Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/Home_Work_Linear_Regression.ipynb
-
+[Homework 2 - SVM for Breast Cancer Dataset]:/Assignments/08_Support_Vector_Machines.ipynb
 ## Class Assignments
 - Apply Linear Regression for Boston Housing Dataset
 - Apply SVM for Breast Cancer Dataset
