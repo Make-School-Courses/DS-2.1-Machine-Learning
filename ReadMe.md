@@ -82,7 +82,7 @@ By the end of the course the students will be able to
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 | [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
 
-[Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Assignments/Home_Work_Linear_Regression.ipynb
+[Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/Home_Work_Linear_Regression.ipynb
 
 ## Class Assignments
 - Apply Linear Regression for Boston Housing Dataset
