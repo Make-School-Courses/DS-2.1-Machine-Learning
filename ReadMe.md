@@ -60,7 +60,7 @@ By the end of the course the students will be able to
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
 [Linear Regression]: Lessons/LinearRegression.md
 [Support Vector Machine]: Lessons/SupportVectorMachine.md
-[Logistic Regression]: Notebooks/simple_Model_Evaluation.ipynb
+[Logistic Regression]: Notebooks/remote_simple_logistic_regression.ipynb
 [Model Evaluation]: Lessons/ModelEvaluation.md
 [Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
 [Ensemble Methods]:Lessons/EnsembleMethods.md
