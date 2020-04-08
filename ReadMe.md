@@ -77,14 +77,14 @@ By the end of the course the students will be able to
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, April 1  |  Wed, April 8 | [Submit Assignment](makeschool.com)  |
-| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, April 8    |  Wed, April 15   | [Submit Assignment](makeschool.com)  |
-| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Wed, April 22    |  Wed, April 29   | [Submit Assignment](makeschool.com)  |
+| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, April 1  |  Wed, April 8 | [Submit Assignment]  |
+| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, April 8    |  Wed, April 15   | [Submit Assignment]  |
+| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Wed, April 22    |  Wed, April 29   | [Submit Assignment]  |
 
 [Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/Home_Work_Linear_Regression.ipynb
 [Homework 2 - SVM for Breast Cancer Dataset]:/Assignments/08_Support_Vector_Machines.ipynb
 [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]:/Assignments/Home_Work_PCA_Kmeans.ipynb
-
+[Submit Assignment]: https://docs.google.com/spreadsheets/d/1qPPzmtgPi7Vn6BKxArFyuXRDnWtaCAvPXm-W8A6C0O8/edit#gid=186542430
 ## Class Assignments
 - Apply Linear Regression for Boston Housing Dataset
 - Apply SVM for Breast Cancer Dataset
