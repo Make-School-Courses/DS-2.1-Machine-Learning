@@ -1,4 +1,4 @@
-# Model Evaluation [Slides](./slides/DS_2.1_model_evaluation.key)
+# Model Evaluation [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_Model_Evaluation.ipynb)
 
 # Cross Validation (5 min)
 
