@@ -1,4 +1,4 @@
-# Principal Component Analysis [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_PCA.ipynb)
+# Principal Component Analysis [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_simple_PCA.ipynb)
 
 
 ## Class Learning Objectives/Competencies (5 min)

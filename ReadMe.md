@@ -46,8 +46,8 @@ By the end of the course the students will be able to
 |  - |   Mon, April 6                        | [Support Vector Machine] |
 |  3 |   Wed, April 8                            | [Logistic Regression] |
 |  4 |   Mon, April 13                         | [Model Evaluation] |
-|  5 |   Wed, April 15                            | [Principal Component Analysis] |
-|  6 |   Mon, April 20                         | [Decision Tree] |
+|  5 |   Wed, April 15                            | [Decision Tree] |
+|  6 |   Mon, April 20                         | [Principal Component Analysis] |
 |  7 |   Wed, April 22                            | [Clustering] |
 |  8 |   Mon, April 27                           | [Review Session] |
 |  9 |   Wed, April 29                             | [Naive Bayes] |  
