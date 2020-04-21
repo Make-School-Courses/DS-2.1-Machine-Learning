@@ -1,4 +1,4 @@
-## Learning Objectives [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_kmeans.ipynb)
+## Learning Objectives [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_simple_kmeans.ipynb)
 - The first unsupervised learning algorithm is the topic of this class
 - Kmean clustering algorithm and its visualization will be presented
 - The number of cluster and how to choose it
