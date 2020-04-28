@@ -1,4 +1,4 @@
-# Naive Bayes [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/simple_naive_Bayes_slides.ipynb)
+# Naive Bayes [Slides](https://github.com/Make-School-Courses/DS-2.1-Machine-Learning/blob/master/Notebooks/remote_simple_naive_Bayes.ipynb)
 
 ### Learning Objectives
 - Learn how to transform text data into number arrays
