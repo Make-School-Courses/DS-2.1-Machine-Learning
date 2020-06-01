@@ -35,26 +35,34 @@ By the end of the course the students will be able to
 
 
 ## Schedule
-**Course Dates:** Monday, March 30 – Wednesday, May 13, 20266701 (7 weeks)
 
-**Class Times:** 2:30pm to 5:15pm on Monday, Wednesday (13 class sessions)
+**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)
+
+**Class Times:** Monday, Wednesday, and Friday at 1:30–3:20 pm (20 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, March 30                           | [Introduction to Machine Learning] |
-|  2 |   Wed, April 1                            | [Linear Regression] |
-|  - |   Mon, April 6                        | [Support Vector Machine] |
-|  3 |   Wed, April 8                            | [Logistic Regression] |
-|  4 |   Mon, April 13                         | [Model Evaluation] |
-|  5 |   Wed, April 15                            | [Decision Tree] |
-|  6 |   Mon, April 20                         | [Principal Component Analysis] |
-|  7 |   Wed, April 22                            | [Clustering] |
-|  8 |   Mon, April 27                           | [Review Session] |
-|  9 |   Wed, April 29                             | [Naive Bayes] |  
-| 10 |   Mon, May 4                         | [TFIDF and its Application]|
-| 11 |   Wed, May 6                         | [Ensemble Methods]  |
-| 12 |   Mon, May 11                         |  Final Exam |
-| 13 |   Wed, May 13                         | Presentations  |
+|  1 |  Mon, June 1               | [Introduction to Machine Learning] |
+|  2 |  Wed, June 3               | [Linear Regression] |
+|  3 |  Fri, June 5               | Activity Day |
+|  4 |  Mon, June 8               | [Support Vector Machine] |
+|  5 |  Wed, June 10               | [Logistic Regression] |
+|  6 |  Fri, June 12               | Activity Day |
+|  7 |  Mon, June 15               | [Decision Tree] |
+|  8 |  Wed, June 17              | [Principal Component Analysis] |
+|  9 |  Fri, June 19              | Activity Day |
+| 10 |  Mon, June 22              | [Clustering] |
+| 11 |  Wed, June 24              | [Review Session] |
+| 12 |  Fri, June 26              | Activity Day |
+| 13 |  Mon, June 29              | [Naive Bayes] |
+| 14 |  Wed, July 1              | [TFIDF and its Application]|  
+| -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
+| 15 |  Mon, July 6              | [Ensemble Methods]|
+| 16 |  Wed, July 8                 | [Sample Final Projects] |
+| 17 |  Fri, July 10                  | Activity Day |
+| 18 |  Mon, July 13                  | [Lesson 13] |
+| 19 |  Wed, July 15                 | [Final Exam] |
+| 20 |  Fri, July 17                 | Presentations |
 
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
@@ -77,9 +85,9 @@ By the end of the course the students will be able to
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, April 1  |  Wed, April 8 | [Submit Assignment]  |
-| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, April 8    |  Wed, April 15   | [Submit Assignment]  |
-| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Wed, April 22    |  Wed, April 29   | [Submit Assignment]  |
+| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, June 3  |  Wed, June 10 | [Submit Assignment]  |
+| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, June 10    |  Wed, June 17   | [Submit Assignment]  |
+| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Mon, June 22    |  Mon, June 29   | [Submit Assignment]  |
 
 [Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/Home_Work_Linear_Regression.ipynb
 [Homework 2 - SVM for Breast Cancer Dataset]:/Assignments/08_Support_Vector_Machines.ipynb
