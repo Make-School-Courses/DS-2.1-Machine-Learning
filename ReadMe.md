@@ -48,19 +48,19 @@ By the end of the course the students will be able to
 |  4 |  Mon, June 8               | [Support Vector Machine] |
 |  5 |  Wed, June 10               | [Logistic Regression] |
 |  6 |  Fri, June 12               | Activity Day |
-|  7 |  Mon, June 15               | [Decision Tree] |
-|  8 |  Wed, June 17              | [Principal Component Analysis] |
+|  7 |  Mon, June 15               | [Model Evaluation] |
+|  8 |  Wed, June 17              | [Decision Tree] |
 |  9 |  Fri, June 19              | Activity Day |
-| 10 |  Mon, June 22              | [Clustering] |
+| 10 |  Mon, June 22              | [Principal Component Analysis] |
 | 11 |  Wed, June 24              | [Review Session] |
 | 12 |  Fri, June 26              | Activity Day |
-| 13 |  Mon, June 29              | [Naive Bayes] |
-| 14 |  Wed, July 1              | [TFIDF and its Application]|  
+| 13 |  Mon, June 29              | [Clustering] |
+| 14 |  Wed, July 1              | [Naive Bayes]|  
 | -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
-| 15 |  Mon, July 6              | [Ensemble Methods]|
-| 16 |  Wed, July 8                 | [Sample Final Projects] |
+| 15 |  Mon, July 6              | [TFIDF and its Application]|
+| 16 |  Wed, July 8                 | [Ensemble Methods] |
 | 17 |  Fri, July 10                  | Activity Day |
-| 18 |  Mon, July 13                  | [Lesson 13] |
+| 18 |  Mon, July 13                  | [Sample Final Projects] |
 | 19 |  Wed, July 15                 | [Final Exam] |
 | 20 |  Fri, July 17                 | Presentations |
 
