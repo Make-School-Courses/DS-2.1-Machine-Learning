@@ -85,9 +85,9 @@ By the end of the course the students will be able to
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, June 3  |  Wed, June 10 | [Submit Assignment]  |
-| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, June 10    |  Wed, June 17   | [Submit Assignment]  |
-| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Mon, June 22    |  Mon, June 29   | [Submit Assignment]  |
+| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, June 10  |  Wed, June 17 | [Submit Assignment]  |
+| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, June 17    |  Wed, June 24   | [Submit Assignment]  |
+| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Mon, June 29    |  Mon, July 6   | [Submit Assignment]  |
 
 [Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/Home_Work_Linear_Regression.ipynb
 [Homework 2 - SVM for Breast Cancer Dataset]:/Assignments/08_Support_Vector_Machines.ipynb
