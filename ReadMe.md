@@ -36,34 +36,28 @@ By the end of the course the students will be able to
 
 ## Schedule
 
-**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)
+**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
 
-**Class Times:** Monday, Wednesday, and Friday at 1:30–3:20 pm (20 class sessions)
+**Class Times:** Monday, Wednesday at 9:30am–12:15pm (15 class sessions)
+
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, June 1               | [Introduction to Machine Learning] |
-|  2 |  Wed, June 3               | [Linear Regression] |
-|  3 |  Fri, June 5               | Activity Day |
-|  4 |  Mon, June 8               | [Support Vector Machine] |
-|  5 |  Wed, June 10               | [Logistic Regression] |
-|  6 |  Fri, June 12               | Activity Day |
-|  7 |  Mon, June 15               | [Model Evaluation] |
-|  8 |  Wed, June 17              | [Decision Tree] |
-|  9 |  Fri, June 19              | Activity Day |
-| 10 |  Mon, June 22              | [Principal Component Analysis] |
-| 11 |  Wed, June 24              | [Review Session] |
-| 12 |  Fri, June 26              | Activity Day |
-| 13 |  Mon, June 29              | [Clustering] |
-| 14 |  Wed, July 1              | [Naive Bayes]|  
-| -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
-| 15 |  Mon, July 6              | [TFIDF and its Application]|
-| 16 |  Wed, July 8                 | [Ensemble Methods] |
-| 17 |  Fri, July 10                  | Activity Day |
-| 18 |  Mon, July 13                  | [Sample Final Projects] |
-| 19 |  Wed, July 15                 | [Final Exam] |
-| 20 |  Fri, July 17                 | Presentations |
-
+|  1 |  Wed, Aug 19               | [Introduction to Machine Learning] |
+|  2 |  Mon, Aug 24               | [Linear Regression] |
+|  3 |  Wed, Aug 26               | [Support Vector Machine] |
+|  4 |  Mon, Aug 31               | [Logistic Regression] |
+|  5 |  Wed, Sept 2               | [Model Evaluation] |
+|  6 |  Mon, Sept 7               | [Decision Tree] |
+|  7 |  Wed, Sept 9               | [Principal Component Analysis] |
+|  8 |  Mon, Sept 14              | [Review Session] |
+|  9 |  Wed, Sept 16              | [Clustering] |
+| 10 |  Mon, Sept 21              | [Naive Bayes] |
+| 11 |  Wed, Sept 23              | [TFIDF and its Application] |
+| 12 |  Mon, Sept 28              | [Ensemble Methods] |
+| 13 |  Wed, Sept 30              | [Sample Final Projects] |
+| 14 |  Mon, Oct 5                | [Final Exam] |  
+| 15 |  Wed, Oct 7                | Final Presentations |
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
 [Linear Regression]: Lessons/LinearRegression.md
