@@ -48,16 +48,16 @@ By the end of the course the students will be able to
 |  3 |  Wed, Aug 26               | [Support Vector Machine] |
 |  4 |  Mon, Aug 31               | [Logistic Regression] |
 |  5 |  Wed, Sept 2               | [Model Evaluation] |
-|  6 |  Mon, Sept 7               | [Decision Tree] |
-|  7 |  Wed, Sept 9               | [Principal Component Analysis] |
-|  8 |  Mon, Sept 14              | [Review Session] |
-|  9 |  Wed, Sept 16              | [Clustering] |
-| 10 |  Mon, Sept 21              | [Naive Bayes] |
-| 11 |  Wed, Sept 23              | [TFIDF and its Application] |
-| 12 |  Mon, Sept 28              | [Ensemble Methods] |
-| 13 |  Wed, Sept 30              | [Sample Final Projects] |
-| 14 |  Mon, Oct 5                | [Final Exam] |  
-| 15 |  Wed, Oct 7                | Final Presentations |
+|  - |  Mon, Sept 7               | [Holiday- Labor Day] |
+|  6 |  Mon, Sept 9               | [Decision Tree] |
+|  7 |  Wed, Sept 14               | [Principal Component Analysis] |
+|  8 |  Mon, Sept 16              | [Review Session] |
+|  9 |  Wed, Sept 21              | [Clustering] |
+| 10 |  Mon, Sept 23              | [Naive Bayes] |
+| 11 |  Wed, Sept 28              | [TFIDF and its Application] |
+| 12 |  Mon, Sept 30              | [Ensemble Methods] |
+| 13 |  Mon, Oct 5                | [Final Exam] |  
+| 14 |  Wed, Oct 7                | Final Presentations |
 
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
 [Linear Regression]: Lessons/LinearRegression.md
@@ -79,9 +79,9 @@ By the end of the course the students will be able to
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Friday, June 12  |  Friday, June 19 | [Submit Assignment]  |
-| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, June 24    |  Wed, July 1   | [Submit Assignment]  |
-| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Wed, July 1    |  Wed, July 8   | [Submit Assignment]  |
+| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, Aug 26  |  Wed, Sept 2 | [Submit Assignment]  |
+| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, Sept 2    |  Wed, Sept 9   | [Submit Assignment]  |
+| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Wed, Sept 16    |  Wed, Sept 23   | [Submit Assignment]  |
 
 [Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/Home_Work_Linear_Regression.ipynb
 [Homework 2 - SVM for Breast Cancer Dataset]:/Assignments/08_Support_Vector_Machines.ipynb
