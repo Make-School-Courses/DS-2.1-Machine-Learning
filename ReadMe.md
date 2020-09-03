@@ -49,13 +49,13 @@ By the end of the course the students will be able to
 |  4 |  Mon, Aug 31               | [Logistic Regression] |
 |  5 |  Wed, Sept 2               | [Model Evaluation] |
 |  - |  Mon, Sept 7               | [Holiday- Labor Day] |
-|  6 |  Mon, Sept 9               | [Decision Tree] |
-|  7 |  Wed, Sept 14               | [Principal Component Analysis] |
-|  8 |  Mon, Sept 16              | [Review Session] |
-|  9 |  Wed, Sept 21              | [Clustering] |
-| 10 |  Mon, Sept 23              | [Naive Bayes] |
-| 11 |  Wed, Sept 28              | [TFIDF and its Application] |
-| 12 |  Mon, Sept 30              | [Ensemble Methods] |
+|  6 |  Wed, Sept 9               | [Decision Tree] |
+|  7 |  Mon, Sept 14               | [Principal Component Analysis] |
+|  8 |  Wed, Sept 16              | [Review Session] |
+|  9 |  Mon, Sept 21              | [Clustering] |
+| 10 |  Wed, Sept 23              | [Naive Bayes] |
+| 11 |  Mon, Sept 28              | [TFIDF and its Application] |
+| 12 |  Wed, Sept 30              | [Ensemble Methods] |
 | 13 |  Mon, Oct 5                | [Final Exam] |  
 | 14 |  Wed, Oct 7                | Final Presentations |
 
