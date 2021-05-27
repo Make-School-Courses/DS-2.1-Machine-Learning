@@ -12,7 +12,7 @@ Students will learn the foundational concepts and techniques of machine learning
 
 ### Why should you take this class?
 
-"Machine Learning is the new electricity" according to Stanford Professor Andrew Ng. In this course you will learn the fundamental techniques of Machine Learning, the science of making computers learn to make decisions and predictions from data in the form of information, observations and real-world interactions. Such knowledge is currently in extremely high demand and is the key to many lucrative industry jobs.
+"Machine Learning is the new electricity" according to Stanford Professor Andrew Ng. In this course you will learn the fundamental techniques of Machine Learning, the science of autonomously making decisions and predictions from tabular data, images, and text. Such knowledge is currently in extremely high demand and is the key to many lucrative industry jobs.
 
 ## Prerequisites:  
 
