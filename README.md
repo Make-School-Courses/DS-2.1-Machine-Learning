@@ -20,7 +20,7 @@ Students will learn the foundational concepts and techniques of machine learning
 
 ## Course Specifics
 
-**Course Delivery**: Synchronous  | 7 weeks | 14 sessions
+**Course Delivery**: Synchronous  | 7 weeks | 18 sessions
 
 **Course Credits**: 3 units | 37.5 Contact Hours/Term | 92 Non-Contact Hours/Term | 129.5 Total Hours/
 
