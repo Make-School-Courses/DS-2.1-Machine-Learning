@@ -45,24 +45,24 @@ By the end of the course the students will be able to
 |  - |  Mon, May 31         | **No Class - Memorial Day** |
 |  1 |  Wed, June 2         | [Introduction to Machine Learning] |
 |  2 |  Fri, June 4         | [Logistic Regression] |
-|  3 |  Mon, June 7         | [Lab] |
+|  3 |  Mon, June 7         | Lab |
 |  4 |  Wed, June 9         | [Linear Regression] |
 |  5 |  Fri, June 11        | [Model Evaluation] |
-|  6 |  Mon, June 14        | [Lab] |
+|  6 |  Mon, June 14        | Lab |
 |  7 |  Wed, June 16        | [Support Vector Machines] |
 |  8 |  Fri, June 18        | [Decision Trees] |
-|  9 |  Mon, June 21        | [Lab] |
+|  9 |  Mon, June 21        | Lab |
 | 10 |  Wed, June 23        | [Ensemble Methods] |
 | 11 |  Fri, June 25        | [Principal Component Analysis] |
-| 12 |  Mon, June 28        | [Lab] |
+| 12 |  Mon, June 28        | Lab |
 | 13 |  Wed, June 30        | [Clustering] |
 | 14 |  Fri, July 2         | [Anomaly Detection] |
 | -  |  Mon, July 5         | **No Class - Independence Day Observed** |
 | 15 |  Wed, July 7         | [Naive Bayes] |
 | 16 |  Fri, July 9         | [TFIDF and its Application] |
-| 17 |  Mon, July 12        | [Lab] |
-| 18 |  Wed, July 14        | [Lab] |
-| 19 |  Fri, July 16        | [Project Presentations] |
+| 17 |  Mon, July 12        | Lab |
+| 18 |  Wed, July 14        | Lab |
+| 19 |  Fri, July 16        | Project Presentations |
 
 ---
 
@@ -95,7 +95,11 @@ By the end of the course the students will be able to
 [Homework 3 - PCA, K-Means Clustering, Anomaly Detection]: /Assignments/Home_Work_PCA_Kmeans.ipynb
 [Homework 4 - Naive Bayes and TFIDF]: /Assignments/Home_Work_PCA_Kmeans.ipynb
 [Final Project]: /Assignments/Final_Project_Assignment.ipynb
-
+[Homework 1]
+[Homework 2]
+[Homework 3]
+[Homework 4]
+[Homework 5]
 
 ## Class Assignments
 
@@ -108,8 +112,8 @@ Your Gradescope login is your Make School email, and your password can be change
 
 ### Tutorials
 
-- We'll be exploring basic machine learning algorithms applied on to simple datasets with an emphasis on getting basic model functionality
-- https://www.makeschool.com/academy/track/ds-2-1-classification-tutorial
+- We'll explore basic machine learning algorithms applied to simple datasets with an emphasis on getting basic model functionality
+- [Classification Tutorial](https://www.makeschool.com/academy/track/ds-2-1-classification-tutorial)
 
 
 ### Projects
@@ -128,7 +132,6 @@ Your Gradescope login is your Make School email, and your password can be change
 - **Unacceptable Example:** 2 commits the day before a project is due. Students who do this should not expect to pass the class.
 
 - The [Final Project Guideline for DS 2.1](https://docs.google.com/document/d/1Oc7kbLBC_JRURMLmNREqriWr2Xrywzyh7_P7BzHXtWk/edit)
-
 - The [Rubric for Final Project](https://docs.google.com/document/d/15XaC_QRp7v7GuhIYUe54XdQSGnmcVOjrQgFmVISB4pA/edit)
 
 
