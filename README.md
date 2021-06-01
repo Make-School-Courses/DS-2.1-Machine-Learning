@@ -12,7 +12,7 @@ Students will learn the foundational concepts and techniques of machine learning
 
 ### Why should you take this class?
 
-"Machine Learning is the new electricity" according to Stanford Professor Andrew Ng. In this course you will learn the fundamental techniques of Machine Learning, the science of autonomously making decisions and predictions from tabular data, images, and text. Such knowledge is currently in extremely high demand and is the key to many lucrative industry jobs.
+"Machine Learning is the new electricity" according to Stanford Professor Andrew Ng. In this course you will learn the fundamental techniques of Machine Learning, the science of autonomously making decisions and predictions from tabular data, images, and text. Such knowledge is currently in extremely high demand and is the key to many lucrative jobs.
 
 ## Prerequisites:  
 
@@ -34,7 +34,6 @@ By the end of the course the students will be able to
 1. Cluster un-labeled datasets to groups   
 1. Compare models and choose the best model for the task, while continuing to tune the model's hyper-parameters
 
-
 ## Schedule
 
 **Course Dates:** Monday, May 31 – Friday, July 16, 2021 (7 weeks)
@@ -44,114 +43,55 @@ By the end of the course the students will be able to
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  - |  Mon, May 31         | **No Class - Memorial Day** |
-|  1 |  Wed, June 2         | [Lesson 1] |
-|  2 |  Fri, June 4         | [Lesson 2] |
-|  3 |  Mon, June 7         | [Lesson 3] |
-|  4 |  Wed, June 9         | [Lesson 4] |
-|  5 |  Fri, June 11        | [Lesson 5] |
-|  6 |  Mon, June 14        | [Lesson 6] |
-|  7 |  Wed, June 16        | [Lesson 7] |
-|  8 |  Fri, June 18        | [Lesson 8] |
-|  9 |  Mon, June 21        | [Lesson 9] |
-| 10 |  Wed, June 23        | [Lesson 10] |
-| 11 |  Fri, June 25        | [Lesson 11] |
-| 12 |  Mon, June 28        | [Lesson 12] |
-| 13 |  Wed, June 30        | [Lesson 13] |
-| 14 |  Fri, July 2         | [Lesson 14] |
+|  1 |  Wed, June 2         | [Introduction to Machine Learning] |
+|  2 |  Fri, June 4         | [Logistic Regression] |
+|  3 |  Mon, June 7         | [Lab] |
+|  4 |  Wed, June 9         | [Linear Regression] |
+|  5 |  Fri, June 11        | [Model Evaluation] |
+|  6 |  Mon, June 14        | [Lab] |
+|  7 |  Wed, June 16        | [Support Vector Machines] |
+|  8 |  Fri, June 18        | [Decision Trees] |
+|  9 |  Mon, June 21        | [Lab] |
+| 10 |  Wed, June 23        | [Ensemble Methods] |
+| 11 |  Fri, June 25        | [Principal Component Analysis] |
+| 12 |  Mon, June 28        | [Lab] |
+| 13 |  Wed, June 30        | [Clustering] |
+| 14 |  Fri, July 2         | [Anomaly Detection] |
 | -  |  Mon, July 5         | **No Class - Independence Day Observed** |
-| 15 |  Wed, July 7         | [Lesson 15] |
-| 16 |  Fri, July 9         | [Lesson 16] |
-| 17 |  Mon, July 12        | [Lesson 17] |
-| 18 |  Wed, July 14        | [Lesson 18] |
-| 19 |  Fri, July 16        | Final Exam/Presentations |
+| 15 |  Wed, July 7         | [Naive Bayes] |
+| 16 |  Fri, July 9         | [TFIDF and its Application] |
+| 17 |  Mon, July 12        | [Lab] |
+| 18 |  Wed, July 14        | [Project Presentations] |
+| 19 |  Fri, July 16        | [Project Presentations] |
 
 ---
 
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-[Lesson 14]: Lessons/Lesson14.md
-[Lesson 15]: Lessons/Lesson14.md
-[Lesson 16]: Lessons/Lesson14.md
-[Lesson 17]: Lessons/Lesson14.md
-[Lesson 18]: Lessons/Lesson14.md
-[Lesson 19]: Lessons/Lesson14.md
-[Lesson 20]: Lessons/Lesson14.md
-
-
-============================================================================
-OLD SCHEDULE BELOW: delete when finished cutting and pasting
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Aug 19               | [Introduction to Machine Learning] |
-|  2 |  Mon, Aug 24               | [Linear Regression] |
-|  3 |  Wed, Aug 26               | [Support Vector Machine] |
-|  4 |  Mon, Aug 31               | [Logistic Regression] |
-|  5 |  Wed, Sept 2               | [Model Evaluation] |
-|  - |  Mon, Sept 7               | [Holiday- Labor Day] |
-|  6 |  Wed, Sept 9               | [Decision Tree] |
-|  7 |  Mon, Sept 14              | [Principal Component Analysis] |
-|  8 |  Wed, Sept 16              | [Review Session] |
-|  9 |  Mon, Sept 21              | [Clustering] |
-| 10 |  Wed, Sept 23              | [Naive Bayes] |
-| 11 |  Mon, Sept 28              | [TFIDF and its Application] |
-| 12 |  Wed, Sept 30              | [Ensemble Methods] |
-| 13 |  Mon, Oct 5                | [Final Exam] |  
-| 14 |  Wed, Oct 7                | Final Presentations |
-
 [Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
-[Linear Regression]: Lessons/LinearRegression.md
-[Support Vector Machine]: Lessons/SupportVectorMachine.md
 [Logistic Regression]: Notebooks/remote_simple_logistic_regression.ipynb
+[Linear Regression]: Lessons/LinearRegression.md
 [Model Evaluation]: Lessons/ModelEvaluation.md
-[Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
+[Support Vector Machines]: Lessons/SupportVectorMachine.md
+[Decision Trees]: Lessons/DecisionTree.md
 [Ensemble Methods]:Lessons/EnsembleMethods.md
-[Decision Tree]: Lessons/DecisionTree.md
+[Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
 [Clustering]: Lessons/Clustering.md
-[Review Session]: Lessons/Review.md
+[Anomaly Detection]: Lessons/AnomalyDetection.md
 [Naive Bayes]: Lessons/NaiveBayes.md
 [TFIDF and its Application]: Lessons/TFIDF.md
-[Ensemble Methods]: Lessons/EnsembleMethods.md
-
-OLD SCHEDULE ABOVE: delete when finished cutting and pasting
-============================================================================
-
 
 
 ## Assignment Schedule
 
+|                        Assignment                           | Date Assigned |   Due Date   |            Submission Form           |
+|:-----------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| [Homework 1 - Linear Regression for Boston Housing Dataset] | Wed, June 9   | Wed, June 16 | [Submit Assignment]  |
+| [Homework 2 - SVM for Breast Cancer Dataset]                | Wed, June 16  | Wed, June 23 | [Submit Assignment]  |
+| [Homework 3 - PCA and K-Means Clustering]                   | Fri, June 25  | Fri, July 2  | [Submit Assignment]  |
 
-|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Homework 1 - Linear Regression for Boston Housing Dataset]                      |  Wed, Aug 26  |  Wed, Sept 2 | [Submit Assignment]  |
-| [Homework 2 - SVM for Breast Cancer Dataset]                      |  Wed, Sept 2    |  Wed, Sept 9   | [Submit Assignment]  |
-| [Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]                     |  Wed, Sept 16    |  Wed, Sept 23   | [Submit Assignment]  |
-
-[Homework 1 - Linear Regression for Boston Housing Dataset]: ./Assignments/Home_Work_Linear_Regression.ipynb
+[Homework 1 - Linear Regression for Boston Housing Dataset]: /Assignments/Home_Work_Linear_Regression.ipynb
 [Homework 2 - SVM for Breast Cancer Dataset]:/Assignments/08_Support_Vector_Machines.ipynb
-[Homework 3 - PCA and K-Means Clustering on wholesale customers dataset]:/Assignments/Home_Work_PCA_Kmeans.ipynb
-[Submit Assignment]: https://docs.google.com/spreadsheets/d/1092_OYGy3eA2g1KRFa2LwV2WUD40-7lFLy6M-u0w5-0/edit#gid=139168632
-
-
-
-|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-
+[Homework 3 - PCA and K-Means Clustering]:/Assignments/Home_Work_PCA_Kmeans.ipynb
+[Submit Assignment]: (https://docs.google.com/spreadsheets/d/1092_OYGy3eA2g1KRFa2LwV2WUD40-7lFLy6M-u0w5-0/edit?usp=sharing)
 
 
 ## Class Assignments
@@ -163,19 +103,18 @@ As soon as grades are posted, you will be notified immediately so that you can l
 Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
 
-
-
 ### Tutorials
 
 - We'll be exploring basic machine learning algorithms applied on to simple datasets with an emphasis on getting basic model functionality
 - https://www.makeschool.com/academy/track/ds-2-1-classification-tutorial
 
+
 ### Projects
 
 - Apply Linear Regression for Boston Housing Dataset
 - Apply SVM for Breast Cancer Dataset
-- Apply PCA and K-Means Clustering on wholesale customers dataset
-- Projects should be linked to a project page which has a description & requirements.
+- Apply PCA and K-Means Clustering
+- Projects should be linked to a project page which has a description and requirements.
 
 - You will choose your own dataset to clean, investigate, and make predictions or classification or clustering on it
 
@@ -190,9 +129,6 @@ Your Gradescope login is your Make School email, and your password can be change
 - The [Rubric for Final Project](https://docs.google.com/document/d/15XaC_QRp7v7GuhIYUe54XdQSGnmcVOjrQgFmVISB4pA/edit)
 
 
-
-
-
 ## Evaluation
 
 To pass this course you must meet the following requirements:
@@ -200,6 +136,7 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the [Attendance Policy](https://make.sc/attendance-policy)
 - Complete and pass all Assignments, Quizzes and Projects with a score of above 70%
 - Make up classwork from all absences
+
 
 ## [Academic Honesty and Integrity Policy](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#)
 
@@ -218,6 +155,7 @@ Though plagiarism may be the most common form, other violations of scholarly int
 
 If an incident of plagiarism or cheating occurs, the instructor will investigate the incident and consult with the Dean. If the student has been found to have committed an act of academic dishonesty, an [Academic Misconduct Report](https://docs.google.com/forms/d/e/1FAIpQLSeUBN68KkiOyXoynNwBrc89zb5Tr-Z0g0aCpNqbgNzCBm1uGQ/viewform?usp=sf_link) will be filed and the student will be placed on a [Participation Improvement Plan (PIP)](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.8obtx3h2p3mr). A student who believes they have been wrongly accused of plagiarism or cheating, or that the instructor’s resolution of the alleged incident is unjust, may file a [Request for Appeal of Disciplinary Action](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#heading=h.8obtx3h2p3mr).
 
+
 ##  Information Resources
 
 - [Awewsome Data Science](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
@@ -233,9 +171,10 @@ If an incident of plagiarism or cheating occurs, the instructor will investigate
 - Data manipulation, transformation and preprocessing libraries
 - Data modeling libraries
 
+
 ### Data Science Techniques
 
-- Model training
+- Model Training
 - Model Evaluation
 - Hyperparameter Tuning
 
