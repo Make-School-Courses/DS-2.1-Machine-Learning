@@ -95,11 +95,11 @@ By the end of the course the students will be able to
 [Homework 3 - PCA, K-Means Clustering, Anomaly Detection]: /Assignments/Home_Work_PCA_Kmeans.ipynb
 [Homework 4 - Naive Bayes and TFIDF]: /Assignments/Home_Work_PCA_Kmeans.ipynb
 [Final Project]: /Assignments/Final_Project_Assignment.ipynb
-[Homework 1]
-[Homework 2]
-[Homework 3]
-[Homework 4]
-[Homework 5]
+[Homework 1]:https://www.gradescope.com/courses/272469
+[Homework 2]:https://www.gradescope.com/courses/272469
+[Homework 3]:https://www.gradescope.com/courses/272469
+[Homework 4]:https://www.gradescope.com/courses/272469
+[Homework 5]:https://www.gradescope.com/courses/272469
 
 ## Class Assignments
 
