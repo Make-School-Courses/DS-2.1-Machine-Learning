@@ -93,10 +93,8 @@ By the end of the course the students will be able to
 [Homework 1 - Linear Regression for Boston Housing Dataset]: /Assignments/Home_Work_Linear_Regression.ipynb
 [Homework 2 - SVM for Breast Cancer Dataset]: /Assignments/08_Support_Vector_Machines.ipynb
 [Homework 3 - PCA and K-Means Clustering]: /Assignments/Home_Work_PCA_Kmeans.ipynb
-[Homework 4 - Naive Bayes and TFIDF]:/Assignments/Home_Work_PCA_Kmeans.ipynb
+[Homework 4 - Naive Bayes and TFIDF]: /Assignments/Home_Work_PCA_Kmeans.ipynb
 [Final Project]: /Assignments/Final_Project_Assignment.ipynb
-
-[Submit Assignment]: (https://docs.google.com/spreadsheets/d/1092_OYGy3eA2g1KRFa2LwV2WUD40-7lFLy6M-u0w5-0/edit?usp=sharing)
 
 
 ## Class Assignments
