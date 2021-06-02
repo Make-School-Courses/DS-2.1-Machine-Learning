@@ -147,7 +147,7 @@ To pass this course you must meet the following requirements:
 
 ##  Information Resources
 
-- [Awewsome Data Science](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
+- [Awesome Data Science](https://docs.google.com/document/d/1vGG0Q5t_aVZ6VaSUfDnfnZXlqajFU5Ji-TXAIgpYJT8/edit?usp=sharing)
 - [make.sc/library Data Science](https://docs.google.com/document/d/1rHqwZzGi88VJTB1IynMHgTrFzjN2GpIXS8cyOVwnTcQ/preview#heading=h.j1vy4ijmo8w1)
 - [DS-2.1 Study Guide](https://docs.google.com/document/d/19uRmjtBVdyBdm--35uXiU3EKgh24JxPvHLXLOvmEeB8/edit#)
 - [Example Machine Learning Project](https://github.com/jcatanza/good_wines_bad_wines)
