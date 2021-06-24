@@ -14,7 +14,7 @@ Students will learn the foundational concepts and techniques of machine learning
 
 "Machine Learning is the new electricity" according to Stanford Professor Andrew Ng. In this course you will learn the fundamental techniques of Machine Learning, the science of autonomously making decisions and predictions from tabular data, images, and text. Such knowledge is currently in extremely high demand and is the key to high-paying and interesting jobs in industry.
 
-## Prerequisites:  
+## Prerequisites:
 
 - [DS 1.1](https://github.com/Make-School-Courses/DS-1.1-Data-Analysis)
 
@@ -31,7 +31,7 @@ By the end of the course the students will be able to
 1. Identify a prediction problem and choose the appropriate regression model
 1. Identify a classification problem and choose the appropriate classifier
 1. Evaluate either a regression model or a classifier
-1. Cluster un-labeled datasets to groups   
+1. Cluster un-labeled datasets to groups
 1. Compare models and choose the best model for the task, while continuing to tune the model's hyper-parameters
 
 ## Schedule
@@ -66,13 +66,13 @@ By the end of the course the students will be able to
 
 ---
 
-[Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
-[Logistic Regression]: Notebooks/remote_simple_logistic_regression.ipynb
-[Linear Regression]: Lessons/LinearRegression.md
-[Model Evaluation]: Lessons/ModelEvaluation.md
-[Support Vector Machines]: Lessons/SupportVectorMachine.md
-[Decision Trees]: Lessons/DecisionTree.md
-[Ensemble Methods]:Lessons/EnsembleMethods.md
+[Introduction to Machine Learning]:https://docs.google.com/presentation/d/1gLO4DECOGVf1ZrHmd71gZarrMH6_mVSwCxdEFkBSGhI/edit?usp=sharing
+[Logistic Regression]:https://docs.google.com/presentation/d/1VoHLTwSMfVvStOWW8eC7VFuOS5Nn_eM4rfeqT5-5udE/edit?usp=sharing
+[Linear Regression]:https://docs.google.com/presentation/d/1rxroCWoHCVLBl43zQyleqgCeHMtoVXT7zAvSTeoump4/edit?usp=sharing
+[Model Evaluation]:https://docs.google.com/presentation/d/1vbPsuIIKYagtqx2xZJgxiPX0ZbeYquJc2-aXvGtj5aM/edit?usp=sharing
+[Support Vector Machines]: https://docs.google.com/presentation/d/1LyCHpdJs4JN2gE-bk0I-drK7Q0q_GViSLwcCcyp8NjU/edit?usp=sharing
+[Decision Trees]:https://docs.google.com/presentation/d/1TIJ2GsgwdtUynx9O5dqilNYnaT4HLrbVVy7__ZKHa90/edit?usp=sharing
+[Ensemble Methods]:https://docs.google.com/presentation/d/1pNUGnpKlejbc1cLVbDyFWaj8OGCw7pxZXEgCpQL4kGw/edit?usp=sharing
 [Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
 [Clustering]: Lessons/Clustering.md
 [Anomaly Detection]: Lessons/AnomalyDetection.md
@@ -158,7 +158,7 @@ To pass this course you must meet the following requirements:
 
 ### Data Science Tools
 
-- Data Visualization libraries
+- Data visualization libraries
 - Data manipulation, transformation and preprocessing libraries
 - Data modeling libraries
 
@@ -178,7 +178,7 @@ To pass this course you must meet the following requirements:
 ## [Academic Honesty and Integrity Policy](https://docs.google.com/document/d/1a1i2jwXqx__URpWvUf8z8E9iwcdJ05QsPnbjs7Z83Us/preview#)
 
 Students are expected to practice academic integrity in all of its forms, including abstaining from plagiarism, cheating, and other forms of academic misconduct. Make School reserves the right to determine in any given instance what action constitutes a violation of academic honesty and integrity.
-Plagiarism, defined as the practice of presenting another's work or ideas as one’s own, is an act of academic dishonesty and is a serious ethical and scholarly violation.  
+Plagiarism, defined as the practice of presenting another's work or ideas as one’s own, is an act of academic dishonesty and is a serious ethical and scholarly violation.
 
 Copying text or ideas, whether verbatim or by paraphrasing from a source without using proper citation, is not accepted at Make School. Any materials incorporated into your work, regardless of format, must be properly acknowledged using a citation style appropriate for the discipline of the course.
 
