@@ -4,7 +4,6 @@
          src="https://img.icons8.com/bubbles/100/000000/robot.png"
          height="110"/>
   </a>
-  <a href="https://icons8.com/icon/115633/robot">Robot icon by Icons8</a>
 </p>
 
 # DS 2.1 Machine Learning
@@ -207,3 +206,6 @@ If an incident of plagiarism or cheating occurs, the instructor will investigate
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Online Learning Tutorial](https://make.sc/online-learning-tutorial) - How to succeed in online learning at Make School
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+
+
+<a href="https://icons8.com/icon/115633/robot">Robot icon on this README is by Icons8</a>
