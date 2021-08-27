@@ -2,6 +2,12 @@
   <a href="https://www.makeschool.com">
       <img alt="Make School Logo" src="./Web/logo-icononly.svg" height="110">
   </a>
+<p align="center">
+  <a href=https://www.dominican.edu/academics/undergraduate-programs/applied-computer-science>
+    <img alt="Robot icon" 
+         src="https://img.icons8.com/ios/64/000000/external-robot-artificial-intelligence-kiranshastry-lineal-color-kiranshastry-3.png"
+         height="110"/>
+  </a>
 </p>
 
 # DS 2.1 Machine Learning
